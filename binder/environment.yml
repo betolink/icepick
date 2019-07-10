@@ -1,4 +1,4 @@
-name: icecutter
+name: icepick
 channels:
 - conda-forge
 dependencies:
