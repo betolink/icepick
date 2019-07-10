@@ -5,7 +5,9 @@ dependencies:
 - python=3.7.3
 - jupyterlab=1.0.1
 - matplotlib=3.1.1
+- descartes=1.1.0
 - pandas=0.24.2
+- cartopy=0.17.0
 - fiona=1.8.6
 - shapely=1.6.4
 - cfitsio=3.430
