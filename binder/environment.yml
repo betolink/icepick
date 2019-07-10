@@ -6,6 +6,7 @@ dependencies:
 - jupyterlab=1.0.1
 - matplotlib=3.1.1
 - pandas=0.24.2
+- fiona=1.8.6
 - shapely=1.6.4
 - geopandas=0.5.0
 - h5py=2.9.0
