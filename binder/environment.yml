@@ -8,6 +8,7 @@ dependencies:
 - pandas=0.24.2
 - fiona=1.8.6
 - shapely=1.6.4
+- cfitsio=3.430
 - geopandas=0.5.0
 - h5py=2.9.0
 - requests=2.22.0
