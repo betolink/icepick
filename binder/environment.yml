@@ -13,4 +13,3 @@ dependencies:
 - geopandas=0.5.0
 - h5py=2.9.0
 - requests=2.22.0
-- awscli=1.16.193
