@@ -15,3 +15,6 @@ dependencies:
 - requests=2.22.0
 - plotly=4.0.0
 - geopy=1.20.0
+- xarray=0.14.0
+- pyresample=1.13.2
+- hvplot=0.5.2
